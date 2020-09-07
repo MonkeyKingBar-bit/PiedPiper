@@ -1,0 +1,164 @@
+body {
+   
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500px;
+    box-sizing: border-box;
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;  
+}
+header {
+    margin-top: 0px;
+    width: 1109px;
+    height: auto;
+    background: #007765 url(img/logo-l.png) no-repeat 5% 50%;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-bottom: 19px;
+    text-align: center;
+    position: fixed;
+    margin-bottom: 160px;
+ 
+}
+
+.menu {
+    display: inline-block;
+    position: absolute;
+    font-size: 22px;
+    line-height: 28px;
+    top: 10px;
+    right: 100px;
+    text-align: center;
+}
+header a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+.heading {
+    margin-top: 0px;
+    text-align: center;
+    font-size: 72px;
+    line-height: 84px;
+    color: #FFFFFF;
+    background-image: url("img/image.png");
+    padding-top: 160px;
+    padding-bottom: 160px;
+    margin-bottom: 0px;
+}
+.the-problem {
+    background-color: #EEEEEE;
+    margin-top: 0px;
+    padding-top: 48px;   
+}
+.the-problem h1{
+    padding-bottom: 16px;
+    font-size: 64px;
+    line-height: 75px;
+    /* identical to box height */
+    text-align: center;
+    color: #007765;
+}
+.the-first {
+    padding-bottom: 92px;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+    margin-bottom: 0px;
+}
+.banner {
+    margin-top: 0px;
+    padding: 128px 163px 127px 163px;
+    background-image: url("img/image_2.png");
+    background-size: cover;
+    background-position: center center;
+    font-style: italic;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 0px;
+}
+.introducing h1 {
+    margin-top: 0px;
+    padding-top: 48px;
+    padding-bottom: 16px;
+    font-size: 64px;
+    line-height: 75px;
+    color: #007765;
+    text-align: center;
+}
+.introducing {
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+    padding-bottom: 92px;
+    margin-bottom: 0px;
+}
+
+.team {
+    margin-top: 0px;
+    background-color: #EEEEEE;
+    text-align: center;
+    padding-left: 146px;
+    padding-right: 145px;
+}
+.title-team {
+    text-align: center;
+    font-size: 64px;
+    line-height: 75px;
+    color: #007765;
+    padding-top: 58px;
+    padding-bottom: 56px;
+}
+.name {
+    padding-top: 12px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+.position {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    
+}
+.people-first-block {
+    padding-bottom: 82px;
+    display: flex;
+    justify-content: space-between;
+}
+.people-second-block {
+    padding-bottom: 112px;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    margin-top: 0px;
+    background-color: #333333;
+    padding: 48px 339px 64px 340px;
+}
+.footer p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.the-problem, .introducing {
+    padding-left: 55px;
+    padding-right: 55px;
+}
